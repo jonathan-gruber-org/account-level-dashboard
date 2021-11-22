@@ -3,4 +3,4 @@ version: v1.14.0
 exclude:
   code:
       - test.spec.ts
-      - “**/app.js”
+      - app.js
